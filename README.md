@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Author: Lee
+
+This is a React demo project. it allows users to enter a place name. the web page shows the current 
+weather and the weather forcast for next 3 days with the wind speed and weather type. 
+
+The photo is chosen and rendered based  on the weather type. 
+
+to test it, please enter a place name and press enter button.
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -66,3 +77,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
